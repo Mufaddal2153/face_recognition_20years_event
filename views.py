@@ -1,4 +1,4 @@
-from flask import render_template, request, url_for, Response
+from flask import render_template, Response
 from config import face
 from camera import Video
 
